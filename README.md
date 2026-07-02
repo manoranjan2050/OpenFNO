@@ -2,6 +2,8 @@
 
 Open-source, self-hosted F&O analytics and trading journal — an Opstra-style dashboard for Indian options traders.
 
+**License:** [AGPL-3.0-or-later](LICENSE) — free to use, modify, and self-host; if you run a modified version as a hosted service, you must publish your changes.
+
 > Working name: **OpenFNO** (alternative candidate: OptionForge). Rename is a find-and-replace away.
 
 ## Tech Stack

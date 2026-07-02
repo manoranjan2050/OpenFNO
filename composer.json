@@ -1,10 +1,10 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "manoranjan2050/openfno",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
-    "license": "MIT",
+    "description": "Self-hosted, open-source F&O options journal and payoff analytics for Indian markets.",
+    "keywords": ["options-trading", "fno", "nse", "trading-journal", "payoff", "laravel"],
+    "license": "AGPL-3.0-or-later",
     "require": {
         "php": "^8.2",
         "inertiajs/inertia-laravel": "^2.0",
